@@ -1,4 +1,4 @@
-"""This was a task set to compare the most recent posts of two different users on the site Reddit, and return which
+"""This was a task to compare the most recent posts of two different users on the site Reddit, and return which
 oof the users had the higher score. I wanted to use it as a practise of classes.
 https://www.reddit.com/r/beginnerprojects/comments/1i951e/project_compare_recent_karma/"""
 
